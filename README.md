@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-  <img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif]">
-
 <!--
 **KarlQuerel/KarlQuerel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
