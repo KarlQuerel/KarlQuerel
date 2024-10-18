@@ -23,6 +23,7 @@
 ## ⚡Languages and Tools
 [<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25em" align="center" alt="C" title="C"/>](https://www.cprogramming.com)
 [<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25em" align="center" alt="C++" title="C++"/>](https://www.w3schools.com/cpp)
+[<img src="https://img.shields.io/badge/Javascript-808080?style=for-the-badge&logo=javascript&logoColor=white" height="25em" align="center" alt="Javascript" title="Javascript"/>](https://www.javascript.com/)
 [<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25em" align="center" alt="Linux" title="Linux"/>](https://www.linux.org)
 [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25em" align="center" alt="Git" title="Git"/>](https://git-scm.com/)
 [<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="25em" align="center" alt="Docker" title="Docker"/>](https://www.docker.com)
