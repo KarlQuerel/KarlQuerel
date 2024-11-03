@@ -15,17 +15,27 @@
 <div align="right">
 
 ## 📫 How to reach me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em" align="center" alt="Follow Karl Querel on LinkedIn" title="Follow Karl Querel on LinkedIn"/>](https://www.linkedin.com/in/karlquerel)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em" align="center" alt="Follow Karl Querel on LinkedIn" title="Follow Karl Querel on LinkedIn"/>](https://www.linkedin.com/in/karlquerel)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25em" align="center" alt="Email Karl Querel" title="Email Karl Querel"/>](mailto:karlquerel@gmail.com)
 
 <div align="left">
 
-## ⚡Languages and Tools
-[<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25em" align="center" alt="C" title="C"/>](https://www.cprogramming.com)
-[<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25em" align="center" alt="C++" title="C++"/>](https://www.w3schools.com/cpp)
+## ⚡ Languages
+[<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25em" align="center" alt="C" title="C"/>](https://www.cprogramming.com)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25em" align="center" alt="C++" title="C++"/>](https://www.w3schools.com/cpp)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Javascript-808080?style=for-the-badge&logo=javascript&logoColor=white" height="25em" align="center" alt="Javascript" title="Javascript"/>](https://www.javascript.com/)
-[<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25em" align="center" alt="Linux" title="Linux"/>](https://www.linux.org)
-[<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25em" align="center" alt="Git" title="Git"/>](https://git-scm.com/)
+
+<div align="right">
+
+## 🧩 Frameworks
+[<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25em" align="center" alt="Django" title="Django"/>](https://www.djangoproject.com/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25em" align="center" alt="Bootstrap" title="Bootstrap"/>](https://getbootstrap.com/)
+
+<div align="left">
+
+## 🛠 Tools
+[<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25em" align="center" alt="Linux" title="Linux"/>](https://www.linux.org)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25em" align="center" alt="Git" title="Git"/>](https://git-scm.com/)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="25em" align="center" alt="Docker" title="Docker"/>](https://www.docker.com)
 
 <div align="right">
@@ -33,4 +43,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KarlQuerel&show_icons=true&theme=dark&locale=en&layout=compact" align=center>
 
 </div>
-
