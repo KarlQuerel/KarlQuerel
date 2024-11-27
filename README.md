@@ -8,19 +8,19 @@
 
 <div align="left">
 
-## 📖 About me
+## 📖 &nbsp;&nbsp; About me
 - 👔 Worked 4 years as a commodity broker
 - 🕹️ Currently studying at [<img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="center" alt="School 42" title="School 42"/>](https://42.fr/en/homepage/)
 
 <div align="right">
 
-## 📫 How to reach me
+## 📫 &nbsp;&nbsp; How to reach me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em" align="center" alt="Follow Karl Querel on LinkedIn" title="Follow Karl Querel on LinkedIn"/>](https://www.linkedin.com/in/karlquerel)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25em" align="center" alt="Email Karl Querel" title="Email Karl Querel"/>](mailto:karlquerel@gmail.com)
 
 <div align="left">
 
-## ⚡ Languages
+## ⚡ &nbsp;&nbsp; Languages
 [<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25em" align="center" alt="C" title="C"/>](https://www.cprogramming.com)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25em" align="center" alt="C++" title="C++"/>](https://www.w3schools.com/cpp)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Javascript-808080?style=for-the-badge&logo=javascript&logoColor=white" height="25em" align="center" alt="Javascript" title="Javascript"/>](https://www.javascript.com/)&nbsp;&nbsp;
@@ -29,13 +29,13 @@
 
 <div align="right">
 
-## 🧩 Frameworks
+## 🧩 &nbsp;&nbsp; Frameworks
 [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25em" align="center" alt="Django" title="Django"/>](https://www.djangoproject.com/)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25em" align="center" alt="Bootstrap" title="Bootstrap"/>](https://getbootstrap.com/)
 
 <div align="left">
 
-## 🛠 Tools
+## 🛠 &nbsp;&nbsp; Tools
 [<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="25em" align="center" alt="Docker" title="Docker"/>](https://www.docker.com)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25em" align="center" alt="Git" title="Git"/>](https://git-scm.com/)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" align="center" alt="VirtualBox" title="VirtualBox"/>](https://www.virtualbox.org/)&nbsp;&nbsp;
