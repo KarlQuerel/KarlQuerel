@@ -9,7 +9,7 @@
 <div align="left">
 
 ## 📖 &nbsp;&nbsp; About me
-- 👔 Worked 4 years as a commodity broker
+- 👔 Worked 5 years as a Financial Consultant
 - 🕹️ Currently studying at [<img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="center" alt="School 42" title="School 42"/>](https://42.fr/en/homepage/)
 
 <div align="right">
