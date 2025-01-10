@@ -9,7 +9,7 @@
 <div align="left">
 
 ## 📖 &nbsp;&nbsp; About me
-- 👔 Worked 5 years as a Financial Consultant
+- 👔 Former Financial Consultant with 5 years of experience.
 - 🕹️ Currently studying at [<img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="center" alt="School 42" title="School 42"/>](https://42.fr/en/homepage/)
 
 <div align="right">
@@ -36,8 +36,13 @@
 <div align="left">
 
 ## 🛠 &nbsp;&nbsp; Tools
-[<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="25em" align="center" alt="Docker" title="Docker"/>](https://www.docker.com)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25em" align="center" alt="Git" title="Git"/>](https://git-scm.com/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="25em" align="center" alt="Docker" title="Docker"/>](https://www.docker.com)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" align="center" alt="VirtualBox" title="VirtualBox"/>](https://www.virtualbox.org/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" align="center" alt="VirtualBox" title="VirtualBox"/>](https://www.virtualbox.org/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" align="center" alt="VirtualBox" title="VirtualBox"/>](https://www.virtualbox.org/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" align="center" alt="VirtualBox" title="VirtualBox"/>](https://www.virtualbox.org/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" align="center" alt="VirtualBox" title="VirtualBox"/>](https://www.virtualbox.org/)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" align="center" alt="VirtualBox" title="VirtualBox"/>](https://www.virtualbox.org/)&nbsp;&nbsp;
 
 <div align="right">
