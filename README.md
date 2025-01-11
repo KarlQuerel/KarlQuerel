@@ -23,9 +23,9 @@
 ## ⚡ &nbsp;&nbsp; Languages
 [<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25em" align="center" alt="C" title="C"/>](https://www.cprogramming.com)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25em" align="center" alt="C++" title="C++"/>](https://www.w3schools.com/cpp)&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Javascript-808080?style=for-the-badge&logo=javascript&logoColor=white" height="25em" align="center" alt="Javascript" title="Javascript"/>](https://www.javascript.com/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-C8B200?style=for-the-badge&logo=javascript&logoColor=white" height="25em" align="center" alt="JavaScript" title="JavaScript"/>](https://www.javascript.com/)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25em" align="center" alt="Javascript" title="Python"/>](https://www.python.org/)&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="25em" align="center" alt="Bash" title="Bash"/>](https://www.gnu.org/software/bash//)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="25em" align="center" alt="Bash" title="Bash"/>](https://www.gnu.org/software/bash/)&nbsp;&nbsp;
 
 <div align="right">
 
@@ -39,11 +39,9 @@
 [<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25em" align="center" alt="Git" title="Git"/>](https://git-scm.com/)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="25em" align="center" alt="Docker" title="Docker"/>](https://www.docker.com)&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" align="center" alt="VirtualBox" title="VirtualBox"/>](https://www.virtualbox.org/)&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" align="center" alt="VirtualBox" title="VirtualBox"/>](https://www.virtualbox.org/)&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" align="center" alt="VirtualBox" title="VirtualBox"/>](https://www.virtualbox.org/)&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" align="center" alt="VirtualBox" title="VirtualBox"/>](https://www.virtualbox.org/)&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" align="center" alt="VirtualBox" title="VirtualBox"/>](https://www.virtualbox.org/)&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" align="center" alt="VirtualBox" title="VirtualBox"/>](https://www.virtualbox.org/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="25em" align="center" alt="Nginx" title="Nginx"/>](https://nginx.org/en/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="25em" align="center" alt="MariaDB" title="MariaDB"/>](https://mariadb.org/)&nbsp;&nbsp;
+[<img src="https://img.shields.io/badge/Linux-CCAC00?style=for-the-badge&logo=linux&logoColor=white" height="25em" align="center" alt="Linux" title="Linux"/>](https://www.linux.org/)&nbsp;&nbsp;
 
 <div align="right">
 
