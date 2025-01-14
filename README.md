@@ -45,6 +45,6 @@
 
 <div align="right">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=KarlQuerel&show_icons=true&theme=dark&locale=en&layout=compact" align=center>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KarlQuerel&show_icons=true&theme=dark&locale=en&layout=compact" align=center>  -->
 
 </div>
