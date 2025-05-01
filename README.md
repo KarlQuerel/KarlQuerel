@@ -11,6 +11,7 @@
 ## 📖 &nbsp;&nbsp; About me
 - 👔 Former Financial Consultant with 5 years of experience.
 - 🕹️ Currently studying at [<img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="center" alt="School 42" title="School 42"/>](https://42.fr/en/homepage/)
+- 🚧 Check out my **personal website** by clicking: [**here**](https://karlquerel.com/)
 
 <div align="right">
 
@@ -32,6 +33,7 @@
   <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-C8B200?style=for-the-badge&logo=javascript&logoColor=white" height="25em" alt="JavaScript"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25em" alt="Python"/></a>
   <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="25em" alt="Bash"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="25em" alt="TypeScript"/></a>
 </div>
 </div>
 
@@ -41,6 +43,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25em" alt="Django"/></a>
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25em" alt="Bootstrap"/></a>
+  <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="25em" alt="Svelte"/></a>
 </div>
 </div>
 
@@ -54,6 +57,9 @@
   <a href="https://nginx.org/en/"><img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="25em" alt="Nginx"/></a>
   <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="25em" alt="MariaDB"/></a>
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-CCAC00?style=for-the-badge&logo=linux&logoColor=white" height="25em" alt="Linux"/></a>
+  <a href="https://hasura.io/"><img src="https://img.shields.io/badge/Hasura-1F4E79?style=for-the-badge&logo=hasura&logoColor=white" height="25em" alt="Hasura"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="25em" alt="PostgreSQL"/></a>
+  <a href="https://www.timescale.com/"><img src="https://img.shields.io/badge/TimescaleDB-003545?style=for-the-badge&logo=timescale&logoColor=white" height="25em" alt="TimescaleDB"/></a>
 </div>
 </div>
 
