@@ -1,5 +1,8 @@
 <h2 align="center">
-👋 Hi, I'm Karl
+  👋 Hi, I'm Karl &nbsp;
+  <a href="https://karlquerel.com" target="_blank" style="font-size: 0.6em; background: #00BB23; color: white; padding: 4px 8px; border-radius: 6px; text-decoration: none;">
+    🌐 Visit my website
+  </a>
 </h2>
 
 <p align="center">
