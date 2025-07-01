@@ -12,7 +12,7 @@
 <div align="left">
 
 ## 📖 &nbsp;&nbsp; About me
-- 👔 Former Financial Consultant with 5 years of experience.
+- 👔 Former **Financial Consultant** with 5 years of experience.
 - 🕹️ Currently studying at [<img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="center" alt="School 42" title="School 42"/>](https://42.fr/en/homepage/)
 - 🚧 Check out my **personal website** by clicking: [**here**](https://karlquerel.com/)
 
@@ -47,6 +47,7 @@
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25em" alt="Django"/></a>
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25em" alt="Bootstrap"/></a>
   <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="25em" alt="Svelte"/></a>
+  <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="25em" alt="Vue.js"/></a>
 </div>
 </div>
 
@@ -63,6 +64,7 @@
   <a href="https://hasura.io/"><img src="https://img.shields.io/badge/Hasura-1F4E79?style=for-the-badge&logo=hasura&logoColor=white" height="25em" alt="Hasura"/></a>
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="25em" alt="PostgreSQL"/></a>
   <a href="https://www.timescale.com/"><img src="https://img.shields.io/badge/TimescaleDB-003545?style=for-the-badge&logo=timescale&logoColor=white" height="25em" alt="TimescaleDB"/></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="25em" alt="Vite"/></a>
 </div>
 </div>
 
