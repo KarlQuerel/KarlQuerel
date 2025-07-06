@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=karlquerel&color=039c03&style=for-the-badge&abbreviated=true&label=Visitors)
+[![](https://komarev.com/ghpvc/?username=karlquerel&color=039c03&style=for-the-badge&abbreviated=true&label=Visitors)](#)
 <div align="left">
 
 ## 📖 &nbsp;&nbsp; About me
