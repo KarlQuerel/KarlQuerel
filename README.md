@@ -2,12 +2,16 @@
 <a href="https://karlquerel.com"><img src="./Title.gif" alt="Title" /></a>
 </p>
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=karlquerel&color=039c03&style=for-the-badge&abbreviated=true&label=Visitors)
 <div align="left">
 
 ## 📖 &nbsp;&nbsp; About me
 - 👔 Former **Financial Consultant** with 5 years of experience.
 - 🕹️ Currently studying at [<img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="center" alt="School 42" title="School 42"/>](https://42.fr/en/homepage/)
 - 🚧 Check out my **personal website** by clicking [**here**](https://karlquerel.com/)
+
 
 <div align="right">
 
@@ -60,4 +64,5 @@
   <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="25em" alt="Vite"/></a>
 </div>
 </div>
+
 
