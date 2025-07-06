@@ -62,6 +62,7 @@
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="25em" alt="PostgreSQL"/></a>
   <a href="https://www.timescale.com/"><img src="https://img.shields.io/badge/TimescaleDB-003545?style=for-the-badge&logo=timescale&logoColor=white" height="25em" alt="TimescaleDB"/></a>
   <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="25em" alt="Vite"/></a>
+  <a href="https://playwright.dev/"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="25em" alt="Playwright"/></a>
 </div>
 </div>
 
