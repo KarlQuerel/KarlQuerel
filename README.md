@@ -10,6 +10,7 @@
 ## 📖 &nbsp;&nbsp; About me
 - 👔 Former **Financial Consultant** with 5 years of experience.
 - 🕹️ Currently studying at [<img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="center" alt="School 42" title="School 42"/>](https://42.fr/en/homepage/)
+- 👨‍💻 Software Engineer at [Zetra](https://www.linkedin.com/company/zetra-mobility/)
 - 🚧 Check out my **personal website** by clicking [**here**](https://karlquerel.com/)
 
 
