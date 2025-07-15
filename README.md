@@ -5,6 +5,9 @@
 <div align="center">
 
 [![](https://komarev.com/ghpvc/?username=karlquerel&color=039c03&style=for-the-badge&abbreviated=true&label=Visitors)](#)
+
+</div>
+
 <div align="left">
 
 ## 📖 &nbsp;&nbsp; About me
@@ -54,6 +57,7 @@
 ## 🛠 &nbsp;&nbsp; Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25em" alt="Git"/></a>
+  <a href="https://www.usebruno.com/"><img src="https://img.shields.io/badge/Bruno-5A67D8?style=for-the-badge&logo=bruno&logoColor=white" height="25em" alt="Bruno"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="25em" alt="Docker"/></a>
   <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" height="25em" alt="VirtualBox"/></a>
   <a href="https://nginx.org/en/"><img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" height="25em" alt="Nginx"/></a>
