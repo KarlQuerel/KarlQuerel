@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://karlquerel.com"><img src="./Title.gif" alt="Title" /></a>
+<a href="https://karlquerel.com" target="_blank"><img src="./Title.gif" alt="Title" /></a>
 </p>
 
 <div align="center">
