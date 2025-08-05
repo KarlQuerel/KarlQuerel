@@ -2,7 +2,7 @@
 <a href="https://karlquerel.com"><img src="./Title.gif" alt="Title" /></a>
 </p>
 
-<div align="center">
+<div align="right">
 
 [![](https://komarev.com/ghpvc/?username=karlquerel&color=039c03&style=for-the-badge&abbreviated=true&label=Visitors)](#)
 
@@ -11,9 +11,9 @@
 <div align="left">
 
 ## 📖 &nbsp;&nbsp; About me
+- 👨‍💻 **Software Engineer** at [**Zetra**](https://www.linkedin.com/company/zetra-mobility/)
 - 👔 Former **Financial Consultant** with 5 years of experience.
-- 👨‍💻 Software Engineer at [Zetra](https://www.linkedin.com/company/zetra-mobility/)
-- 🕹️ Student at [<img src="https://img.shields.io/badge/Paris-blue?style=for-the-badge&logo=42&logoColor=white&logoSize=auto&labelColor=black" height="20em" align="center" alt="School 42" title="School 42"/>](https://42.fr/en/homepage/)
+- 🎓 Studied at [**HEC Geneva**](https://www.unige.ch/hec/), [**Grenoble Ecole de Management**](https://www.grenoble-em.com/), and [**42 Paris**](https://42.fr/en/homepage/)
 - 🚧 Check out my **personal website** by clicking [**here**](https://karlquerel.com/)
 
 
