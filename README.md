@@ -10,7 +10,7 @@
 
 <div align="left">
 
-## 📖 &nbsp;&nbsp; About me
+## 📖 ABOUT ME
 - 👨‍💻 **Software Engineer** at [**Zetra**](https://www.linkedin.com/company/zetra-mobility/)
 - 👔 Former **Financial Consultant** with 5 years of experience.
 - 🎓 Studied at [**HEC Geneva**](https://www.unige.ch/hec/), [**Grenoble Ecole de Management**](https://www.grenoble-em.com/), and [**42 Paris**](https://42.fr/en/homepage/)
@@ -19,7 +19,7 @@
 
 <div align="right">
 
-## 📫 &nbsp;&nbsp; How to reach me
+## 📫 CONTACT
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/karlquerel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25em"></a>
   <a href="mailto:karlquerel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25em"></a>
@@ -30,7 +30,7 @@
 
 <div align="left">
 
-## ⚡ &nbsp;&nbsp; Languages
+## ⚡ LANGUAGES
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.cprogramming.com"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25em" alt="C"/></a>
   <a href="https://www.w3schools.com/cpp"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25em" alt="C++"/></a>
@@ -43,7 +43,7 @@
 
 <div align="right">
 
-## 🧩 &nbsp;&nbsp; Frameworks
+## 🧩 FRAMEWORKS
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="25em" alt="Django"/></a>
   <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25em" alt="Bootstrap"/></a>
@@ -54,7 +54,7 @@
 
 <div align="left">
 
-## 🛠 &nbsp;&nbsp; Tools
+## 🛠 TOOLS
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25em" alt="Git"/></a>
   <a href="https://www.usebruno.com/"><img src="https://img.shields.io/badge/Bruno-5A67D8?style=for-the-badge&logo=bruno&logoColor=white" height="25em" alt="Bruno"/></a>
@@ -71,8 +71,9 @@
   <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="25em" alt="GitHub Actions"/></a>
 </div>
 
-<div align="center">
+<div align="right">
 
+## 🕹️ STATS
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -84,6 +85,6 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
-</div>
 
+</div>
 
