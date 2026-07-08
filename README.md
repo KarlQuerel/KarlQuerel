@@ -14,7 +14,7 @@
 - 👨‍💻 **Software Engineer** at [**Zetra**](https://www.linkedin.com/company/zetra-mobility/)
 - 👔 Former **Financial Consultant** with 5 years of experience.
 - 🎓 Studied at [**HEC Geneva**](https://www.unige.ch/hec/), [**Grenoble Ecole de Management**](https://www.grenoble-em.com/), and [**42 Paris**](https://42.fr/en/homepage/)
-- 🚧 Check out my **personal website** by clicking [**here**](https://karlquerel.com/)
+- 🌐 Check out my **personal website** by clicking [**here**](https://karlquerel.com/)
 
 </div>
 
@@ -45,6 +45,8 @@
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="28" alt="Bootstrap"/></a>
 <a href="https://svelte.dev/"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" height="28" alt="Svelte"/></a>
 <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="28" alt="Vue.js"/></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="28" alt="Node.js"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="FastAPI"/></a>
 
 </div>
 
