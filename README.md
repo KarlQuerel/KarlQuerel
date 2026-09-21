@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://karlquerel.com"><img src="./Title.gif" alt="Title" /></a>
+<a href="https://karlquerel.com"><img src="./Title.gif" alt="Hi there! I am Karl Querel - karlquerel.com" /></a>
 </p>
 
 <div align="right">
@@ -11,7 +11,7 @@
 <div align="left">
 
 ## 📖 ABOUT ME
-- 👨‍💻 **Software Engineer** at [**Zetra**](https://www.linkedin.com/company/zetra-mobility/)
+- 👨‍💻 **Software Engineer** at [**Zetra**](https://www.linkedin.com/company/zetra-mobility/), building software for electric vehicle charging networks
 - 👔 Former **Financial Consultant** with 5 years of experience.
 - 🎓 Studied at [**HEC Geneva**](https://www.unige.ch/hec/), [**Grenoble Ecole de Management**](https://www.grenoble-em.com/), and [**42 Paris**](https://42.fr/en/homepage/)
 - 🌐 Check out my **personal website** by clicking [**here**](https://karlquerel.com/)
